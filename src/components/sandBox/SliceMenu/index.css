@@ -1,0 +1,12 @@
+.ant-layout-sider-children{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.ant-layout-sider .logo{
+    flex: 0;
+}
+.scroll-box{
+    flex: 1;
+    overflow-y: auto;
+}
